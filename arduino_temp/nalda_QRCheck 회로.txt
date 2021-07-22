@@ -1,0 +1,11 @@
+<Grove MP3>
+TX === D2 (노란색)
+RX === D3 (하얀색)
+VCC === 5V (빨간색)
+GND === GND (검정색)
+
+<HC-SR04>
+VCC === 5V
+Trig === D6
+Echo === D7
+GND === GND
